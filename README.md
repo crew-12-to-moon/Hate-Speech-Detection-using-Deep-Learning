@@ -20,8 +20,9 @@ Python libraries make it very easy for us to handle the data and perform typical
 1 - Offensive Language
 2 - Neither
 
-##plotting the graph of loss and accuracy epoch-by-epoch.
+## plotting the graph of loss and accuracy epoch-by-epoch.
+
 ![Capture9](https://github.com/crew-12-to-moon/Hate-Speech-Detection-using-Deep-Learning/assets/106720341/b955e2a2-0456-4d2e-896a-2b4228dc39b4)
 
-##Conclusion
+## Conclusion
 The model we have trained is a little over fitting the training data but we can handle this by using different regularization techniques. But still, we had achieved 90% accuracy on the validation data which is quite sufficient to prove the power of LSTM models in NLP-related tasks. 
